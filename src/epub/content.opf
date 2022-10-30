@@ -42,14 +42,17 @@
 		<meta property="term" refines="#subject-4">sh2009117267</meta>
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta id="collection-1" property="belongs-to-collection">Scarlet Pimpernel</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">11</meta>
+		<dc:description id="description">A young woman does a good deed and inadvertently is caught up in the injustice of the French Revolution.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;In the Dauphiné area of France, soldiers have come to arrest some local aristos as part of the French Revolution’s anger and revenge on anyone with money. A young woman rescues the family’s papers and money from their house after their arrests, and persuades a childhood friend to hide the valuables. The friend is soon arrested for the theft, so the young woman seeks to go to where he has been taken in order to defend him. She is herself subsequently denounced and arrested, and the Scarlet Pimpernel is soon involved in a rescue plan. But who is her father, what is his role in all of the events, and will he also be caught up in the “Law of the Suspect” that has sent so many to the guillotine?&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20160413</dc:source>
 		<dc:source>https://archive.org/details/sirpercyhitsback0000baro</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">Most of the French phrases were not marked with italics in the scans, so had to be hand-identified during proofing.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Sir_Percy_Hits_Back</meta>
