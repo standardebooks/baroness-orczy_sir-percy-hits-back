@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/baroness-orczy/sir-percy-hits-back</dc:identifier>
 		<dc:date>2023-01-01T20:26:08Z</dc:date>
@@ -47,10 +47,10 @@
 		<meta id="collection-1" property="belongs-to-collection">Scarlet Pimpernel</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">11</meta>
-		<dc:description id="description">A young woman doing a good deed is inadvertently caught up in the injustice of the French Revolution.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A young woman doing a good deed is inadvertently caught up in the injustice of the French Revolution.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;In the Dauphiné area of France, soldiers have come to arrest some local aristos as part of the French Revolution’s anger and revenge on anyone with money. A young woman rescues the family’s papers and money from their house after their arrests, and persuades a childhood friend to hide the valuables. The friend is soon arrested for the theft, so the young woman seeks to go to where he has been taken in order to defend him. She is herself subsequently denounced and arrested, and the Scarlet Pimpernel is soon involved in a rescue plan. But who is her father, what is his role in all of the events, and will he also be caught up in the “Law of the Suspect” that has sent so many to the guillotine?&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20160413</dc:source>
 		<dc:source>https://archive.org/details/sirpercyhitsback0000baro</dc:source>
