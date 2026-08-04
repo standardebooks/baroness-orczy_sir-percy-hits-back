@@ -47,7 +47,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Scarlet Pimpernel</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">11</meta>
-		<dc:abstract>A young woman doing a good deed is inadvertently caught up in the injustice of the French Revolution.</dc:abstract>
+		<meta property="schema:abstract">A young woman doing a good deed is inadvertently caught up in the injustice of the French Revolution.</meta>
 		<dc:description>
 			&lt;p&gt;In the Dauphiné area of France, soldiers have come to arrest some local aristos as part of the French Revolution’s anger and revenge on anyone with money. A young woman rescues the family’s papers and money from their house after their arrests, and persuades a childhood friend to hide the valuables. The friend is soon arrested for the theft, so the young woman seeks to go to where he has been taken in order to defend him. She is herself subsequently denounced and arrested, and the Scarlet Pimpernel is soon involved in a rescue plan. But who is her father, what is his role in all of the events, and will he also be caught up in the “Law of the Suspect” that has sent so many to the guillotine?&lt;/p&gt;
 		</dc:description>
